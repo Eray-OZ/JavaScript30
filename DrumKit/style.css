@@ -1,0 +1,145 @@
+
+
+body {
+    background-image: url('background.jpg');
+}
+
+
+
+span {
+    color:yellow;
+    font-family: courier;
+}
+
+
+
+
+#box1 {
+    border: 3px solid black;
+    border-radius:5px;
+    background-color: green;
+    height: 50px;
+    width: 7%;
+    position: absolute;
+    top:78%;
+    left:35%;
+    margin-left: -300px;
+    margin-top:-150px;
+    text-align: center;
+}
+
+#box2 {
+    border: 3px solid black;
+    border-radius:5px;
+    background-color: green;
+    height: 50px;
+    width: 7%;
+    position: absolute;
+    top:78%;
+    left:44%;
+    margin-left: -300px;
+    margin-top:-150px;
+    text-align: center;
+}
+
+#box3 {
+    border: 3px solid black;
+    border-radius:5px;
+    background-color: green;
+    height: 50px;
+    width: 7%;
+    position: absolute;
+    top:78%;
+    left:53%;
+    margin-left: -300px;
+    margin-top:-150px;
+    text-align: center;
+}
+
+#box4 {
+    border: 3px solid black;
+    border-radius:5px;
+    background-color: green;
+    height: 50px;
+    width: 7%;
+    position: absolute;
+    top:78%;
+    left:62%;
+    margin-left: -300px;
+    margin-top:-150px;
+    text-align: center;
+}
+
+#box5 {
+    border: 3px solid black;
+    border-radius:5px;
+    background-color: green;
+    height: 50px;
+    width: 7%;
+    position: absolute;
+    top:78%;
+    left:71%;
+    margin-left: -300px;
+    margin-top:-150px;
+    text-align: center;
+}
+
+#box6 {
+    border: 3px solid black;
+    border-radius:5px;
+    background-color: green;
+    height: 50px;
+    width: 7%;
+    position: absolute;
+    top:78%;
+    left:80%;
+    margin-left: -300px;
+    margin-top:-150px;
+    text-align: center;
+}
+
+#box7 {
+    border: 3px solid black;
+    border-radius:5px;
+    background-color: green;
+    height: 50px;
+    width: 7%;
+    position: absolute;
+    top:78%;
+    left:89%;
+    margin-left: -300px;
+    margin-top:-150px;
+    text-align: center;
+}
+
+#box8 {
+    border: 3px solid black;
+    border-radius:5px;
+    background-color: green;
+    height: 50px;
+    width: 7%;
+    position: absolute;
+    top:78%;
+    left:98%;
+    margin-left: -300px;
+    margin-top:-150px;
+    text-align: center;
+}
+
+#box9 {
+    border: 3px solid black;
+    border-radius:5px;
+    background-color: green;
+    height: 50px;
+    width: 7%;
+    position: absolute;
+    top:78%;
+    left:107%;
+    margin-left: -300px;
+    margin-top:-150px;
+    text-align: center;
+}
+
+
+
+
